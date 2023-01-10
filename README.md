@@ -7,7 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/@varunja42890493" target="blank"><img src="https://img.shields.io/twitter/follow/@varunja42890493?logo=twitter&style=for-the-badge" alt="@varunja42890493" /></a> </p>
 
-- 🔭 I’m currently working on [My Portfolio](https://varun-98-masai.github.io/)
 
 - 🌱 I’m currently learning **Next JS**
 
