@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://twitter.com/@varunja42890493" target="blank"><img src="https://img.shields.io/twitter/follow/@varunja42890493?logo=twitter&style=for-the-badge" alt="@varunja42890493" /></a> </p>
 
 
-- 🌱 I’m currently learning **Next JS**
+- 🌱 I’m currently learning **React Redux**
 
 - 👨‍💻 All of my projects are available at [https://varun-98-masai.github.io/](https://varun-98-masai.github.io/)
 
